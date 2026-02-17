@@ -1,0 +1,33 @@
+body {
+    background-color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 100px;
+    transition: background-color 0.5s ease;
+}
+
+button {
+    padding: 10px 20px;
+    margin: 10px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#mensagem {
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: bold;
+}
+h1{
+    font-family: Arial, sans-serif;
+}
+
+btnVerde{
+    background-color: rgb(53, 208, 53);
+}
+btnVermelho{
+    background-color: rgb(209, 13, 33);
+}
+btnRetorna{
+    background-color: rgb(208, 206, 206);
+}
